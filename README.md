@@ -1,80 +1,147 @@
 <div align="center">
 
-# ⚡ HunterKritik
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:172554,100:06b6d4&height=220&section=header&text=HUNTER%20KRITIK&fontSize=52&fontColor=67e8f9&animation=fadeIn&fontAlignY=38&desc=SECURITY%20RESEARCH%20%2F%2F%20BUILD%20%2F%2F%20BREAK%20%2F%2F%20LEARN&descSize=16&descAlignY=60&descColor=e2e8f0" alt="Cyberpunk animated header" />
 
-### Security Researcher • Bug Hunter • Developer
+# `> whoami`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Security%20Research%20%7C%20Build%20%7C%20Break%20%7C%20Learn&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Animated security banner" />
+### `hunterkritik-byte` · Security Researcher · Bug Hunter · Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=%5B+ACCESS+GRANTED+%5D;Researching+security+boundaries...;Finding+root+causes...;Building+reproducible+tools...;Documenting+the+fix..." alt="Animated terminal text" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hunterkritik-byte)
+[![Hunt Sift](https://img.shields.io/badge/HUNT--SIFT-0891b2?style=for-the-badge&logo=python&logoColor=white)](https://github.com/hunterkritik-byte/hunt-sift)
 
 </div>
 
-## 🛡️ About
+---
 
-I build security-research tooling and investigate bugs with an emphasis on reproducible analysis, clear root-cause documentation, and responsible disclosure.
-
-- 🔬 Vulnerability research & triage
-- 🌐 Web / browser security analysis
-- 🧪 Controlled proof-of-concept development
-- 🛠️ Security tooling and automation
-- 📚 Continuous technical learning
-
-## 🚀 Featured Project — Hunt Sift
-
-**Hunt Sift** is an offline-first security artifact analysis workbench inspired by useful professional security-tooling workflows while keeping analysis local and controlled.
-
-### Highlights
-
-- HTTP / Burp / HAR artifact analysis
-- Security-header review
-- BOLA / IDOR review cues
-- SQL / NoSQL injection indicators
-- Mass-assignment and information-disclosure review
-- JavaScript / source-code security analysis
-- Case and workspace inventory
-- Finding aggregation and reporting
-- SARIF export
-- Privacy-conscious evidence redaction
-
-**Project:** https://github.com/hunterkritik-byte/hunt-sift
-
-## 🧰 Focus Areas
+## ◈ SYSTEM PROFILE
 
 ```text
-Web Security        ███████████████████░  95%
-Browser Security    █████████████████░░░  85%
-Python              ██████████████████░░  90%
-JavaScript          ████████████████░░░░  80%
-Security Automation █████████████████░░░  85%
-Reverse Engineering ██████████████░░░░░░  70%
+┌──────────────────────────────────────────────────────────────────────┐
+│  IDENTITY      hunterkritik-byte                                    │
+│  ROLE          Security Researcher / Developer                      │
+│  MODE          RESEARCH • ANALYZE • BUILD                           │
+│  SPECIALTY     Web Security • Browser Security • Tooling             │
+│  PRINCIPLE     Reproduce → Understand → Fix → Document              │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-## 🧠 Research Principles
+## 🧿 3D SECURITY STACK
 
-> **Find the root cause, reproduce it safely, measure the impact, and document the fix.**
+<div align="center">
 
-I prefer tooling that produces useful evidence without turning every configuration anomaly into a vulnerability claim.
+<img src="https://skillicons.dev/icons?i=python,js,html,git,githubactions,linux,windows,chrome" alt="Technology stack" />
 
-## 📈 GitHub Activity
+</div>
 
-![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=hunterkritik-byte&theme=github-compact&hide_border=true)
+```text
+                    ┌───────────────┐
+                 ┌──┤  WEB SECURITY ├──┐
+                 │  └───────────────┘  │
+                 ▼                      ▼
+          ┌─────────────┐        ┌─────────────┐
+          │ HTTP / APIs │◄──────►│ BROWSER / JS│
+          └──────┬──────┘        └──────┬──────┘
+                 │                      │
+                 └──────────┬───────────┘
+                            ▼
+                  ┌───────────────────┐
+                  │    HUNT SIFT      │
+                  │  OFFLINE SECURITY │
+                  │     WORKBENCH     │
+                  └───────────────────┘
+```
 
-## 🐍 Contribution Animation
+## ⚡ FEATURED — HUNT SIFT
+
+> **An offline-first security artifact analysis workbench for controlled research.**
+
+| Module | Capability |
+|---|---|
+| `HTTP` | Raw request/response security review |
+| `BURP` | Offline Burp XML artifact analysis |
+| `HAR` | HTTP Archive analysis |
+| `SOURCE` | JavaScript/source security review |
+| `IDOR` | BOLA/authorization review cues |
+| `INJECTION` | SQL/NoSQL injection indicators |
+| `REPORT` | Finding aggregation + SARIF |
+| `WORKSPACE` | Case inventory + artifact fingerprinting |
+
+**→ [Open Hunt Sift](https://github.com/hunterkritik-byte/hunt-sift)**
+
+## 🧪 RESEARCH PIPELINE
+
+```text
+   ┌─────────┐       ┌───────────┐       ┌────────────┐
+   │ ARTIFACT│ ───►  │  ANALYZE  │ ───►  │   TRIAGE   │
+   └─────────┘       └───────────┘       └─────┬──────┘
+                                                │
+                                                ▼
+                                      ┌──────────────────┐
+                                      │ REPRODUCE SAFELY │
+                                      └────────┬─────────┘
+                                               │
+                                               ▼
+                                      ┌──────────────────┐
+                                      │ ROOT CAUSE + FIX │
+                                      └────────┬─────────┘
+                                               │
+                                               ▼
+                                      ┌──────────────────┐
+                                      │ DOCUMENT / SHARE │
+                                      └──────────────────┘
+```
+
+## 🔬 SECURITY INTERESTS
+
+`Web Security` · `Browser Security` · `JavaScript` · `HTTP` · `WebGL` · `Vulnerability Research` · `Security Automation` · `Reverse Engineering`
+
+## 📊 GITHUB TELEMETRY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hunterkritik-byte&show_icons=true&hide_border=true&theme=transparent&title_color=22d3ee&text_color=cbd5e1&icon_color=38bdf8" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterkritik-byte&layout=compact&hide_border=true&theme=transparent&title_color=22d3ee&text_color=cbd5e1" height="170" alt="Top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hunterkritik-byte&bg_color=020617&color=67e8f9&line=22d3ee&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub activity graph" />
+
+</div>
+
+## 🐍 CONTRIBUTION MATRIX
+
+<div align="center">
 
 ![Contribution snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
-## 🔧 Tech Stack
+</div>
 
-`Python` `JavaScript` `HTML` `Git` `GitHub Actions` `WebGL` `Chrome` `Linux` `Windows` `SARIF` `Burp Suite`
+## 🧠 OPERATING PRINCIPLES
 
-## 📫 Connect
+```text
+[01]  Don't confuse an indicator with a vulnerability.
+[02]  Reproduce before escalating.
+[03]  Minimize sensitive evidence.
+[04]  Understand the root cause.
+[05]  Make the fix reproducible.
+[06]  Document impact and limitations.
+```
 
-- GitHub: https://github.com/hunterkritik-byte
-- Security tooling: https://github.com/hunterkritik-byte/hunt-sift
+## 🌐 FIND ME
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=67e8f9)](https://github.com/hunterkritik-byte)
+[![Hunt Sift](https://img.shields.io/badge/HUNT%20SIFT-0e7490?style=for-the-badge&logo=python&logoColor=white)](https://github.com/hunterkritik-byte/hunt-sift)
+
+</div>
 
 ---
 
 <div align="center">
 
-**Build. Test. Understand. Secure.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:172554,100:020617&height=120&section=footer&animation=fadeIn" alt="Animated footer" />
+
+### `BUILD // TEST // UNDERSTAND // SECURE`
 
 </div>
